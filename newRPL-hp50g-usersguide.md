@@ -1,9 +1,9 @@
 ## newRPL on an HP 50g: A Practical User's Guide ##
 
 >Document version: 0.4 (Apr 19, 2017)
-<br>
+
 >newRPL version that this document reflects: 0.8Alpha build 786
-<br>
+
 >Contributing Author(s): Steven Martin
 
 ### Contents ###
@@ -623,7 +623,7 @@ At this time, bugs should be reported in the HP Museum thread:
 
 This document is currently hosted on GitHub here:
 
-<https://github.com/smartin-calc/newRPL-hp50g-practical-usersguide>
+<https://github.com/smartin-calc/newRPL-hp50g-usersguide>
 
 ----------------
 
