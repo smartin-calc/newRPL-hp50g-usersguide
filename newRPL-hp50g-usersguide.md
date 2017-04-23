@@ -1,6 +1,6 @@
 ## newRPL on an HP 50g: A Practical User's Guide ##
 
->Document version: 0.4 (Apr 19, 2017)
+>Document version: 0.4 (Apr 22, 2017)
 
 >newRPL version that this document reflects: 0.8Alpha build 786
 
@@ -82,7 +82,7 @@ The original **RPL** (Reverse Polish Lisp) programming language was designed and
 
 __What is newRPL?__
 <br>
-newRPL is a modern implementation of the RPL language started by Claudio Lapilli and helped by a community of calculator enthusiasts.  It was started near the end of 2013 and is still under development.  The motivation for this re-implementation is to preserve the language by making it accessible on modern platforms (a PC or some other embedded device).  The goal of the project is to create a fully functional calculator RPL environment that runs natively (as opposed to an emulation or interpreted layer) on the target hardware.  Furthermore, newRPL is also designed to be backwards compatible with the RPL language and programs that can be run on the Hewlett Packard 48/49/50g series calculators.  The newRPL project (released under the BSD open source license) implements RPL in portable C, and is initially targeted for an HP50g calculator and a PC emulator.
+newRPL is a modern implementation of the RPL language started by Claudio L. and helped by a community of calculator enthusiasts.  It was started near the end of 2013 and is still under development.  The motivation for this re-implementation is to preserve the language by making it accessible on modern platforms (a PC or some other embedded device).  The goal of the project is to create a fully functional calculator RPL environment that runs natively (as opposed to an emulation or interpreted layer) on the target hardware.  Furthermore, newRPL is also designed to be backwards compatible with the RPL language and programs that can be run on the Hewlett Packard 48/49/50g series calculators.  The newRPL project (released under the BSD open source license) implements RPL in portable C, and is initially targeted for an HP50g calculator and a PC emulator.
 
 In HP calculator parlance there is a distinction between **User RPL** and **System RPL**.  The former is the language directly accessible to the user of an HP calculator, whereas the latter typically requires external tools and can potentially lead to system crashes.  newRPL seeks to implement **User RPL** only (System RPL was used as a lower level and faster language in the Saturn processor environment or emulation).
 
@@ -116,7 +116,7 @@ Here is a list of changes and enhancements from the stock 50g ROM:
 
 ### <a name="where"></a>Where to Get newRPL
 
-Claudio Lapilli maintains a section under his HPGCC website (yes, he created HPGCC too, so he has some skills) for newRPL: <http://hpgcc3.org/projects/newrpl>
+Claudio L. maintains a section under his HPGCC website (yes, he created HPGCC too, so he has some skills) for newRPL: <http://hpgcc3.org/projects/newrpl>
 
 The actual ROM image can be downloaded from here: <http://hpgcc3.org/projects/newrpl/downloads>
 
@@ -140,7 +140,7 @@ There is an active thread on the HP Museum forum here: <http://www.hpmuseum.org/
 
 The original (now *historical*) thread is here: <http://www.hpmuseum.org/forum/thread-287.html>
 
-HPGCC3 website (newRPL project) maintained by Claudio Lapilli: <http://hpgcc3.org>
+HPGCC3 website (newRPL project) maintained by Claudio L.: <http://hpgcc3.org>
 
 Sourceforge newRPL project website: <https://sourceforge.net/projects/newrpl/>
 
@@ -629,11 +629,11 @@ This document is currently hosted on GitHub here:
 
 ### <a name="acknowledge"></a>Acknowledgments
 
-Without the dedicated work of Claudio Lapilli this project would not be possible, so a special thanks to him.
+Without the dedicated work of Claudio L. this project would not be possible, so a special thanks to him.
 
 Thanks also to the core team of developers:
 
-Claudio Lapilli
+Claudio L.
 
 And thanks to the dedicated group of alpha/beta testers:
 
